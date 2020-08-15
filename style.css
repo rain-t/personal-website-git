@@ -1,0 +1,38 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+max-width: 35em;
+margin: auto;
+color: #A7E8ED;
+border: 3px groove grey;
+box-shadow: 10px 10px #A7E8ED;
+text-align: center;
+padding: 16px;
+
+}
+
+img {
+height:150px;
+border-radius: 8px;
+}
+
+html {
+  margin: 16px;
+}
+
+.social a {
+text-decoration: none;
+color:grey;
+margin: 8px;
+}
+
+.social a:hover {
+  opacity: .8;
+}
+
+.social .instagram {
+  color: #C13584
+}
+
+.social .email {
+  color: black;
+}
